@@ -1,8 +1,11 @@
-微博: [@比格伐克埃斯](https://weibo.com/u/7293381604)
-
-知乎: [@黄士心](https://www.zhihu.com/people/wongzero)
-
-b站: [@ApassEr0x00](https://space.bilibili.com/8380727)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerowong&layout=compact&hide_title=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApassEr&layout=compact&hide_title=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <samp>
+    <a style="font-size:20px;" href="https://weibo.com/u/7293381604">weibo</a> ·
+    <a style="font-size:20px;" href="https://www.zhihu.com/people/wongzero">zhihu</a> ·
+    <a style="font-size:20px;" href="https://space.bilibili.com/8380727">bilibili</a>
+  </samp>
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zerowong/github-stats-transparent/output/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/zerowong/github-stats-transparent/output/generated/languages.svg" />
+</div>
