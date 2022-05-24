@@ -1,8 +1,9 @@
 <div align="center">
   <samp>
-    <a style="font-size:20px;" href="https://weibo.com/u/7293381604">weibo</a> ·
-    <a style="font-size:20px;" href="https://www.zhihu.com/people/wongzero">zhihu</a> ·
-    <a style="font-size:20px;" href="https://space.bilibili.com/8380727">bilibili</a>
+    <a href="https://weibo.com/u/7293381604">weibo</a> ·
+    <a href="https://www.zhihu.com/people/wongzero">zhihu</a> ·
+    <a href="https://space.bilibili.com/8380727">bilibili</a> ·
+    <a href="https://twitter.com/ApassEr0x00">twitter</a>
   </samp>
 </div>
 <div align="center">
